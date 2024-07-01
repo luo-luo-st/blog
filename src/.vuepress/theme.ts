@@ -26,12 +26,12 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "luoluo",
   displayFooter: true,
 
   // 博客相关
   blog: {
-    description: "一个前端开发者",
+    description: "一个开发者",
     intro: "/intro.html",
     medias: {
       GitHub: "https://github.com/luo-luo-st/",
