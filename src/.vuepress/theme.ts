@@ -8,7 +8,7 @@ export default hopeTheme({
 
   author: {
     name: "luoluo",
-    url: "https://luo-luo-st.com",
+    url: "https://github.com/luo-luo-st/",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -34,7 +34,7 @@ export default hopeTheme({
     description: "一个前端开发者",
     intro: "/intro.html",
     medias: {
-      GitHub: "https://luo-luo-st.com",
+      GitHub: "https://github.com/luo-luo-st/",
       VuePressThemeHope: {
         icon: "https://theme-hope-assets.vuejs.press/logo.svg",
         link: "https://theme-hope.vuejs.press",
